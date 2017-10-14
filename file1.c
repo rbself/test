@@ -9,7 +9,7 @@
 #include    "goahead.h"
 
 /*********************************** Locals ***********************************/
-
+1111111
 static char   *websIndex;                   /* Default page name */
 static char   *websDocuments;               /* Default Web page directory */
 
